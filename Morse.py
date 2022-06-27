@@ -162,6 +162,7 @@ def Release(key):
 def Trainer():
     Logo()
     Message('Morse code Trainer')
+    Message('Consider "Space Bar" as a "Telegraph Key"')
     Message('For exit press "ESC"')
     Message('For next line press "DOWN"\n')
     with Listener(on_press = Trainer_Press, on_release = Release) as listener:
@@ -222,6 +223,7 @@ def Character_to_Morse():
 def Tester():
     Logo()
     Message('Morse code Tester')
+    Message('Consider "Space Bar" as a "Telegraph Key"')
     Message('For exit press "ESC"')
     Message('For next test press "RIGHT"\n')
     print(String)
