@@ -33,7 +33,6 @@ Valid Characters
 ----------------
 The standard uppercase and lowercase letters 'A' through 'Z' and digits '0' through '9' are of course supported, along with a handful of punctuation and special characters. The following table indicates the special characters supported along with the corresponding Morse code. Other input characters are ignored.
 
-|-----------------------|-------------------|
 | Input Character       | Morse Character   |
 |-----------------------|-------------------|
 | A & a                 | •➖               |
@@ -91,4 +90,3 @@ The standard uppercase and lowercase letters 'A' through 'Z' and digits '0' thro
 | $ (Dollar)            | •••➖••➖        |
 | @ (At the Rate)       | •➖➖•➖•        |
 | ' ' (Space)           | | (Pipe)          |
-|-----------------------|-------------------|
