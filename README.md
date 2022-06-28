@@ -89,4 +89,4 @@ The standard uppercase and lowercase letters 'A' through 'Z' and digits '0' thro
 | - (Minus)             | ➖••••➖         |
 | $ (Dollar)            | •••➖••➖        |
 | @ (At the Rate)       | •➖➖•➖•        |
-| ' ' (Space)           | | (Pipe)          |
+| ' ' (Space)           | '|' (Pipe)        |
